@@ -1,0 +1,12 @@
+CarterFry 1 5 2 7
+SuzanneCunningham 2 6 7 7
+DamionAcosta 4 6 2 9
+RashadWalton 5 4 7 6
+EleanorShaffer 3 1 2 4
+LeviMclean 9 5 1 6
+JoelKalai 4 2 2 6
+HenryBednarz 1 1 6 2
+AnnaTang 9 8 9 A
+NateGordon 4 9 6 9
+NethanMadhav 5 A 2 3
+LucasPookas A A A A
